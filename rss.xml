@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bbco]]></title>
         <description><![CDATA[bbco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bbco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 17:34:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 17:42:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bbco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8585c1fe-a9f4-4a61-8a62-de28f652e283.jpg">]]></description>
+            <link>https://thegrid.ai/bbco/14444592-19df-44e7-97d9-1054b3da26b3/index.html</link>
+            <guid isPermaLink="false">14444592-19df-44e7-97d9-1054b3da26b3</guid>
+            <pubDate>Mon, 28 Dec 2015 17:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64850a7a-7b73-4316-a83b-9cfeece157db.JPG">]]></description>
-            <link>undefinedc7a3882b-72b1-401e-8a4a-3320df9baea0/index.html</link>
+            <link>https://thegrid.ai/bbco/c7a3882b-72b1-401e-8a4a-3320df9baea0/index.html</link>
             <guid isPermaLink="false">c7a3882b-72b1-401e-8a4a-3320df9baea0</guid>
             <pubDate>Mon, 28 Dec 2015 17:34:31 GMT</pubDate>
         </item>
