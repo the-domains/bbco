@@ -1,6 +1,6 @@
 name: bbco
 favicon: null
-layout_spectrum: 0.6325767282396555
+layout_spectrum: 0.5296
 typography_spectrum: 0.15301952953450382
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#777777'
     - '#c9c6c6'
   brandStrength: 0.5
-  lightness: 0.09325002366676927
-  saturation: 0.9544567081611603
-  rhythmicContrast: 0.7367885739076883
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
